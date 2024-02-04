@@ -1,2 +1,14 @@
 # GWUCybersecurityBootcampChallengesAndProjects2
 Linux Systems Administration
+Congratulations on an outstanding homework assignment! You've demonstrated your system admin skills in the process of repairing a malfunctioning server!
+On the same note, you did a great job with double-checking permissions on the four assigned files. You were able to implement the commands to check and set /etc/shadow permissions, /etc/gshadow permissions, /etc/group permissions and /etc/passwd permissions. Well done on this deliverable!
+
+ this is nice work creating user accounts. Also, you were able to use the five commands to add users and the admin as well!
+
+
+Also, you performed admirably in creating the appropriate group and collaborative folder. You were able to use commands to add an engineers group to the system, add users to that respective collaborative group, and create a shared folder for this data!
+
+
+Now, you have done awesome work with your lynis audit! You were able to execute the appropriate commands to install and run Lynis, view documentation, and run the audit. You also provided a screenshot of the hardening suggestions output! Superb!
+-SAA
+Central Grader , Mar 6, 2023 at 5:31pm
